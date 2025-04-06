@@ -24,12 +24,12 @@ body {
 }
 
 #experience-page {
-    background-image:url("https://files.catbox.moe/y7w5pr.jpg") ;
+    background-color: orange;
     color: white;
 }
 
 #friends-page {
-    background-color: #1d3557;
+    background-color: pink;
     color: white;
 }
 
@@ -57,7 +57,7 @@ body {
 }
 
 #github-page {
-    background-color: #e63946;
+    background-color: yellow;
     color: white;
 }
 
@@ -86,7 +86,7 @@ body {
 }
 
 #contact-page {
-    background-color: #f1faee;
+    background-color: red;
     color: #1d3557;
 }
 
